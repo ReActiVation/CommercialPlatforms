@@ -10,8 +10,4 @@
       <PackageReference Include="Selenium.WebDriver" Version="3.141.0" />
     </ItemGroup>
 
-    <ItemGroup>
-      <Folder Include="Service\Time" />
-    </ItemGroup>
-
 </Project>
